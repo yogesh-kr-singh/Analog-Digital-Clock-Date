@@ -1,4 +1,4 @@
-# Analog-Digital-Clock
+# Analog-Digital-Clock-Date
 This project is a simple yet elegant implementation of an analog & digital clock with date using HTML, CSS, and JavaScript. It offers a visually appealing way to display the current time and date on any webpage.
 
 Features:
